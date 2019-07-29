@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import MyComponent from './MyComponent';
 import EventPractice from './EventPractice';
+import ValidationSample from "./ValidationSample";
 
 function App() {
     return (
@@ -12,7 +13,10 @@ function App() {
         /*
         <MyComponent name={"React"} age={4}/>
         */
+        /*
         <EventPractice/>
+        */
+        <ValidationSample></ValidationSample>
     );
 }
 
