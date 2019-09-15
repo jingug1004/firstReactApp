@@ -6,6 +6,7 @@ import EventPractice from './EventPractice';
 import ValidationSample from "./ValidationSample";
 import ScrollBox from "./ScrollBox";
 import Counter from './Counter';
+import Say from './Say';
 
 /*class App extends Component {
     render() {
@@ -37,7 +38,7 @@ import Counter from './Counter';
 }*/
 
 const App = () => {
-    return <Counter/>;
+    return <Say/>;
 }
 
 export default App;

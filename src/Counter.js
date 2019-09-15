@@ -23,14 +23,14 @@ class Counter extends Component {
                     onClick={() => {
                         /*  this.setState({number: number + 1});
                           this.setState({number: this.state.number + 1});*/
-                        this.setState(prevState => {
-                            return {
-                                number: prevState.number + 1
-                            };
-                        });
-                        this.setState(prevState => ({
-                            number: prevState.number + 1
-                        }));
+                        this.setState({
+                                number: number + 1
+                            },
+                            () => {
+                                console.log('방금 스테이트가 호출 되었습니다.');
+                                console.log(this.state);
+                            })
+
                     }}
                 > + 1
                 </button>
