@@ -38,7 +38,7 @@ import Say from './Say';
 }*/
 
 const App = () => {
-    return <Say/>;
+    return <EventPractice/>;
 }
 
 export default App;
