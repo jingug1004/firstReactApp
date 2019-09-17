@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="581e92e2-7351-46d6-b026-136f05be489f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IterationSample.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/IterationSample.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -78,8 +77,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/ScrollBox.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="322">
-                      <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+                    <state relative-caret-position="532">
+                      <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
                     </state>
                   </provider>
                 </entry>
@@ -100,8 +99,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/IterationSample.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="112">
-                      <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+                    <state relative-caret-position="322">
+                      <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
                     </state>
                   </provider>
                 </entry>
@@ -402,7 +401,7 @@
       <workItem from="1568509519672" duration="4648000" />
       <workItem from="1568541659704" duration="2307000" />
       <workItem from="1568629520727" duration="4625000" />
-      <workItem from="1568716448949" duration="2959000" />
+      <workItem from="1568716448949" duration="5051000" />
     </task>
     <task id="LOCAL-00001" summary="https://github.com/jingug1004/firstReactApp.git">
       <created>1563080489781</created>
@@ -488,11 +487,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568636046084</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="190917(화) 리액트를 다루는 기술_01 // IterationSample.js">
+      <created>1568719476503</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568719476504</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54758000" />
+    <option name="totallyTimeSpent" value="56850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="1" width="3852" height="1046" extended-state="0" />
@@ -536,7 +542,8 @@
     <MESSAGE value="190915 추석 후 공휴일 리액트를 다루는 기술&#10;Say.js useState 수정" />
     <MESSAGE value="190916(월) 리액트를 다루는 기술&#10;EventPractice.js" />
     <MESSAGE value="190916(월) 리액트를 다루는 기술_02&#10;EventPractice.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="190916(월) 리액트를 다루는 기술_02&#10;EventPractice.js" />
+    <MESSAGE value="190917(화) 리액트를 다루는 기술_01 // IterationSample.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="190917(화) 리액트를 다루는 기술_01 // IterationSample.js" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/yarn.lock">
@@ -643,13 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ScrollBox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ValidationSample.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -657,10 +657,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScrollBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/IterationSample.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="322">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
         </state>
       </provider>
     </entry>
