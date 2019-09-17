@@ -7,6 +7,7 @@ import ValidationSample from "./ValidationSample";
 import ScrollBox from "./ScrollBox";
 import Counter from './Counter';
 import Say from './Say';
+import IterationSample from "./IterationSample";
 
 /*class App extends Component {
     render() {
@@ -37,8 +38,12 @@ import Say from './Say';
     }
 }*/
 
-const App = () => {
-    return <ValidationSample/>;
+class App extends Component{
+    render () {
+        return (
+        <IterationSample/>
+    );
+    }
 }
 
 export default App;
