@@ -9,6 +9,7 @@ import Counter from './Counter';
 import Say from './Say';
 import IterationSample from "./IterationSample";
 import LifeCycleSample from "./LifeCycleSample";
+import ErrorBoundary from "./ErrorBoundary";
 
 /*class App extends Component {
     render() {
@@ -58,7 +59,9 @@ class App extends Component {
         return (
             <div>
                 <button onClick={this.handleClick}>랜덤 색상</button>
-                <LifeCycleSample color={this.state.color}/>
+                <ErrorBoundary>
+                    <LifeCycleSample color={this.state.color}/>
+                </ErrorBoundary>
             </div>
         );
     }
